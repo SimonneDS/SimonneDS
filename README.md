@@ -41,6 +41,29 @@
 
 ---
 
+## 📈 GitHub Activity & Stats
+
+<div align="center">
+  <a href="https://github.com/SimonneDS">
+    <img src="https://github-readme-stats.vercel.app/api/user/SimonneDS?show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=SimonneDS%20Stats&hide_border=true&rank_icon=none" 
+         alt="SimonneDS GitHub Stats" 
+         style="width: 49%;"
+    />
+  </a>
+  
+  <a href="https://github.com/SimonneDS">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonneDS&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=fff" 
+         alt="SimonneDS Top Languages" 
+         style="width: 49%;"
+    />
+  </a>
+  
+  <br>
+  </div>
+
+---
+
+## 🚀 My Toolbox
 ## 🌐 Languages
 ![Spanish](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge)
