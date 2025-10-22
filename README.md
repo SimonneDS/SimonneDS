@@ -39,26 +39,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
 
----
-
-## 📈 GitHub Activity & Stats
-
-<div align="center">
-  <a href="https://github.com/SimonneDS">
-    <img src="https://github-readme-stats.vercel.app/api?username=SimonneDS&show_icons=true&theme=nord&hide_border=true&count_private=true&title_color=000&icon_color=000&text_color=000" 
-         alt="SimonneDS GitHub Stats" 
-         style="width: 49%;"
-    />
-  </a>
-  
-  <a href="https://github.com/SimonneDS">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonneDS&layout=compact&theme=nord&hide_border=true&langs_count=8&title_color=000&icon_color=000&text_color=000" 
-         alt="SimonneDS Top Languages" 
-         style="width: 49%;"
-    />
-  </a>
-
-  </div>
 
 ---
 
