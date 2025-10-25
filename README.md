@@ -39,6 +39,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
 
+---
+
 ## 🌐 Languages
 ![Spanish](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge)
