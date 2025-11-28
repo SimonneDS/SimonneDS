@@ -48,16 +48,17 @@
 ---
 
 ## 📌 Featured Projects
-
-- 📊 [**Zuber – Taxi Rides Analysis**](https://github.com/Monita0611/Zuber_project) – Identifying passenger patterns and the impact of weather on ride frequency and duration.  
-- 🏦 [**Beta Bank – Customer Churn Prediction**](https://github.com/Monita0611/BetaBank_project) – Classification models to predict churn and improve customer retention.  
-- ⛽ [**OilyGiant – Oil Well Selection**](https://github.com/Monita0611/OilyGiant_project) – Linear regression and bootstrapping to select the most profitable region.  
-- 🟡 [**Gold Recovery – Mining Plant Optimization**](https://github.com/Monita0611/Gold_recovery_project) – Predictive modeling to improve industrial gold recovery processes.  
-
+  
+| Icon | Project Title | Key Achievement & Techniques |
+| :---: | :--- | :--- |
+| 🏦 | **Customer Churn Prediction (Beta Bank)** | Development of a **Classification** model (LightGBM) to predict customer churn. Focused on optimizing **AUC-ROC ($\ge 0.85$)** and handling **Class Imbalance** to ensure high-accuracy retention strategies. |
+| 🚗 | **Used Car Price Prediction (Rusty Bargain)** | Construction of a high-speed **Regression** model (XGBoost) to estimate market value. Achieved a **low RMSE ($1721.58$)**, demonstrating strong skills in feature engineering and *boosting* model tuning. |
+| 🎬 | **Sentiment Classification (Movie Reviews)** | Implemented a **Natural Language Processing (NLP)** solution to classify text sentiment. Utilized **Lemmatization** and **TF-IDF** for vectorization, achieving an **F1-Score $\ge 0.85$**. |
+| 🚖 | **Airport Taxi Demand Prediction (Sweet Lift Taxi)** | Built a **Time Series/Regression** ML model to forecast hourly taxi demand at the airport. The project achieved an **RMSE $< 48$**, optimizing fleet management and ensuring vehicle availability during peak hours. |
 ---
 
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonne-arancibia-cardenas/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Monita0611)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SimonneDS)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simonne.cardenas@gmail.com)  
