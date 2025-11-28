@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Simonne Arancibia!
 
-🎯 **Bilingual Data Scientist** passionate about turning complex data into **clear and actionable insights** that drive strategic decision-making.  
+🎯 **Data Scientist** passionate about turning complex data into **clear and actionable insights** that drive strategic decision-making.  
 💻 Skilled in **Python, SQL, and Machine Learning**, I enjoy solving challenging problems, optimizing processes, and delivering real business value through data analysis.  
 🌍 Open to **remote opportunities** in Data Science, Data Analytics, and Machine Learning.  
 
